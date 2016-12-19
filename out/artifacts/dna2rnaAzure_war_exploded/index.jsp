@@ -31,7 +31,7 @@
   Enter DNA chain (String may only contain 'a', 'g', 't', 'c' characters.)
  <form action="dnaServlet" method="post" id="mainForm">
       <input type="text" name="dnaChain">
-      <input type="submit" id="getRNAButton" name="Get m-RNA"></input>
+      <input type="submit" id="getRNAButton" name="Get m-RNA"/>
 </form>
 
   <div id = "resultRNA">  </div>
