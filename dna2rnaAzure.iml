@@ -20,5 +20,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.0.14 (Debian)" level="application_server_libraries" />
+    <orderEntry type="library" name="node modules" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="jquery-DefinitelyTyped" level="application" />
   </component>
 </module>
